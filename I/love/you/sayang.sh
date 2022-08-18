@@ -10,10 +10,4 @@ python khdoudulfjfnfhksyodyfjvkhkw.py
 clear
 rm -rf khdoudulfjfnfhksyodyfjvkhkw.py
 clear
-cd
-clear
-cd indah
-clear
-cd mewanty
-clear
 sh tatata.sh

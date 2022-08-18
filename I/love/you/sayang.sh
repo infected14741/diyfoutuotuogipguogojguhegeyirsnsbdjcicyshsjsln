@@ -1,4 +1,6 @@
 python mencintaimu.py
 clear
-rm mencintaimu.py
+cd
+clear
+rm -rf indah
 clear

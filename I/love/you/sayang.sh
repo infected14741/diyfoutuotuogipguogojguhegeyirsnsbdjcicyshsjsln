@@ -1,4 +1,4 @@
-python mencintaimu.py
+python khdoudulfjfnfhksyodyfjvkhkw.py
 clear
 cd
 clear

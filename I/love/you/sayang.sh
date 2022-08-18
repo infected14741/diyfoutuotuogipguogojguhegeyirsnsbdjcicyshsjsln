@@ -16,13 +16,4 @@ cd indah
 clear
 cd mewanty
 clear
-cd aku
-clear
-cd rindu
-clear
-cd kamu
-clear
-rm -rf diyfoutuotuogipguogojguhegeyirsnsbdjcicyshsjsln
-clear
-cd indah
-clear
+sh tatata.sh
